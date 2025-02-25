@@ -44,6 +44,7 @@ div{
 
 @media (min-width: 772px) {
   div {
+    display: inline-block;
     width: 45vw;
   }
 
@@ -54,7 +55,7 @@ div{
 
 @media (min-width: 998px) {
   div {
-    width: 30vh;
+    width: 30vw;
   }
 }
 
